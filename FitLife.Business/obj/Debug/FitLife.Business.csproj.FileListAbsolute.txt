@@ -1,0 +1,10 @@
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\FitLife.Business.dll.config
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\FitLife.Business.dll
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\FitLife.Business.pdb
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\EntityFramework.dll
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\EntityFramework.xml
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\obj\Debug\FitLife.Business.csprojResolveAssemblyReference.cache
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\obj\Debug\FitLife.Business.dll
+C:\Users\Suat\Source\Repos\suatztrk\FitLife\FitLife.Business\obj\Debug\FitLife.Business.pdb
